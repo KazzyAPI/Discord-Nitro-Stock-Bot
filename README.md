@@ -4,7 +4,7 @@ As most of you know managing gift links can be hard and somewhat confusing. I ma
 
 ## Requirements
 
-               Make sure you have latest version of node installed and ready to go.
+Make sure you have latest version of node installed and ready to go.
 
 ## Installation
 
