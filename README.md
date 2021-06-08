@@ -37,6 +37,7 @@ Relating to types you will have the option of 4 types.
 
 
 # Want a  custom bot? Add me on discord KazzyDev#1111
+https://discord.gg/grHh8u37Dq
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
